@@ -1,0 +1,13 @@
+.new-goal{
+    margin: 2rem;
+    text-align: center;
+
+}
+
+.add-goal-btn{
+    display: block;
+    margin: auto;
+    margin-top: 1rem;
+    background-color: lightgreen;
+    border-radius: 5px;
+}
